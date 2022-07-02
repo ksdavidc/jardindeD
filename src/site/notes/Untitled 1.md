@@ -3,6 +3,5 @@
 ---
 
 
-<p markdown="1"  style="text-align: center;">
-![hi](https://i.imgur.com/ahewaNu.png)
 
+<p markdown="1"  style="text-align: center;">![hi](https://i.imgur.com/ahewaNu.png) {. style="text-align: center;"}
