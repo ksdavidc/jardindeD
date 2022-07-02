@@ -3,18 +3,9 @@
 ---
 
 
-# JardindeD
-
-Welcome
-{: style="text-align: center; height: 50px; background: red;"}
-
-
-<p style='text-align: center; height: 50px;'  markdown="1">
-Title 1 ![hi](https://i.imgur.com/ahewaNu.png)
-</p> 
-
+# Welcome to <u>JardindeD</u>
+{ style="text-align: center; background: red; "}
 
 
 ![hi](https://i.imgur.com/ahewaNu.png)
-{: style="text-align: center; height: 50px; background: red;"}
-
+{ style="text-align: center; display: block;   margin-left: auto;  margin-right: auto;  width: 50%"}
