@@ -5,7 +5,7 @@
 
 # JardindeD
 Welcome
-{ .class style='text-align: center; height: 50px;'}
+{ style='text-align: center; height: 50px;'}
 
 - test
 -
