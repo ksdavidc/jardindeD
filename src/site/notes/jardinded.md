@@ -10,9 +10,7 @@ Welcome
 
 
 <p style='text-align: center; height: 50px;'  markdown="1">
-
-Title this ![hi](https://i.imgur.com/ahewaNu.png)
-
+Title 1 ![hi](https://i.imgur.com/ahewaNu.png)
 </p> 
 
 
