@@ -6,7 +6,7 @@
 # JardindeD
 
 Welcome
-{: style="text-align: center; height: 50px;background: red;"}
+{: style="text-align: center; height: 50px; background: red;"}
 
 
 <p style='text-align: center; height: 50px;'  markdown="1">
