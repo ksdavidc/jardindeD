@@ -5,23 +5,15 @@
 
 # JardindeD
 Welcome
-{ style='text-align: center; height: 50px;'}
-
-- test
--
+{ style="text-align: center; height: 50px;" }
 
 
-What is this? ![hi](https://i.imgur.com/ahewaNu.png){ style='text-align: center; height: 50px;'}
+<p style='text-align: center; height: 50px;'  markdown=1>Title this![hi](https://i.imgur.com/ahewaNu.png) 
 
-## test
+</p>
 
-what is this? ![hi](https://i.imgur.com/ahewaNu.png) 
-{ style='text-align: center; height: 50px;'}
+[hi](https://i.imgur.com/ahewaNu.png) 
 
 
-## test
-
-what is this? 
-{ style='text-align: center; height: 50px;'}![hi](https://i.imgur.com/ahewaNu.png) 
 
 
