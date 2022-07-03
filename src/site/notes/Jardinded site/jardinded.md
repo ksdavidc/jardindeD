@@ -3,4 +3,5 @@
 ---
 
 # Welcome to <u>JardindeD</u>
-new
+
+[[Jardinded site/random notes|random notes]]
