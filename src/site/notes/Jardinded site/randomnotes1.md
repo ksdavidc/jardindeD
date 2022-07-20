@@ -5,7 +5,7 @@
 # Start
 This needs a spacer  `\^code` just after the quote to make it [[tests of obsidian/goth/test of quoth|usable by quoth]]
 
-[this page](https://jardindeD.netlify.app/jardinded-site/random-notes-1/)
+[this page](https://jardindeD.netlify.app/jardinded-site/randomnotes1/)
 
 > This works!! Use source view, and put on new line, and use quote
 >
