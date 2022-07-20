@@ -4,4 +4,11 @@
 
 # Welcome to <u>JardindeD</u>
 
-[[Jardinded site/random notes|random notes]]
+
+> The noblest worship is to make yourself as good and as just as you can.
+>
+> &mdash; <cite>Isocrates</cite>✍️ 
+{: id=quot2}
+
+>   quote
+
