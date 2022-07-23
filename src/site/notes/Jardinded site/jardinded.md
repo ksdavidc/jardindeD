@@ -10,5 +10,5 @@
 > &mdash; <cite>Isocrates</cite>✍️ 
 {: id=quot2}
 
->   quote
+
 
