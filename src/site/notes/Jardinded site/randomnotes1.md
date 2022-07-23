@@ -54,5 +54,3 @@ This needs a spacer  `\^code` just after the quote to make it [[tests of obsidia
 ^spacer4
 
 ^help
-
-end
