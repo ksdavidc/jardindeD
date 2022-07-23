@@ -7,6 +7,10 @@ This needs a spacer  `\^code` just after the quote to make it [[tests of obsidia
 
 [this page](https://jardindeD.netlify.app/jardinded-site/randomnotes1/)
 
+```quoth
+path: [[random notes#^454656]]
+```
+
 > This works!! Use source view, and put on new line, and use quote
 >
 > &mdash; <cite>Benjamin Disraeli</cite>✍️ 
