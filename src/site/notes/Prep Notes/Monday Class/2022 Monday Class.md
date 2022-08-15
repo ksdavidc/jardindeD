@@ -15,7 +15,6 @@
 
 <div class="blocks">
 
-
 ## 2022 08 15
 
  Open this link:
