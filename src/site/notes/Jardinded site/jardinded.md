@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardinded-site/jardinded/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/jardinded-site/jardinded/","tags":["gardenEntry"]}
 ---
 
 # Welcome to <u>JardindeD</u>
@@ -10,5 +10,5 @@
 > &mdash; <cite>Isocrates</cite>✍️ 
 {: id=quot2}
 
-[[Jardinded site/randomnotes1|randomnotes1]]
+[[Jardinded site/randomnotes1\|randomnotes1]]
 
