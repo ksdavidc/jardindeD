@@ -3,7 +3,7 @@
 ---
 
 # Start
-This needs a spacer  `\^code` just after the quote to make it [[tests of obsidian/goth/test of quoth\|usable by quoth]]
+This needs a spacer  `\^code` just after the quote to make it [[tests of obsidian/quoth/test of quoth\|usable by quoth]]
 
 [this page](https://jardingded.netlify.app/jardinded-site/randomnotes1/)
 

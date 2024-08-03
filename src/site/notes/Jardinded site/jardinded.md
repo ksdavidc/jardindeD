@@ -10,5 +10,5 @@
 > &mdash; <cite>Isocrates</cite>✍️ 
 {: id=quot2}
 
-[[Jardinded site/randomnotes1\|randomnotes1]]
+[[Personal/Shapiro Kelley\|Shapiro Kelley]]
 
