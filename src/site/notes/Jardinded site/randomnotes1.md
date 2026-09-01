@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardinded-site/randomnotes1/"}
+{"dg-publish":true,"permalink":"/jardinded-site/randomnotes1/","dg-note-properties":{}}
 ---
 
 # Start

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardinded-site/jardinded/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/jardinded-site/jardinded/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # Welcome to <u>JardindeD</u>
@@ -10,5 +10,5 @@
 > &mdash; <cite>Isocrates</cite>✍️ 
 {: id=quot2}
 
-[[Personal/Shapiro Kelley\|Shapiro Kelley]]
+[[Miscellaneous and to file/Shapiro Kelley\|Shapiro Kelley]]
 
